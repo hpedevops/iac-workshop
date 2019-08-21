@@ -26,7 +26,7 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 sudo python get-pip.py
 ```
 
-3)  Install [AWS Client](https://clients.amazonworkspaces.com/). 
+3)  Install AWS CLI
 
 ```
 sudo pip install awscli
